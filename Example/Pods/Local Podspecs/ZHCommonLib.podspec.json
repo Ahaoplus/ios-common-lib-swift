@@ -1,0 +1,22 @@
+{
+  "name": "ZHCommonLib",
+  "version": "0.1.0",
+  "summary": "A short description of ZHCommonLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/596111492@qq.com/ZHCommonLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "596111492@qq.com": "michael.zh.zhang@cn.ey.com"
+  },
+  "source": {
+    "git": "https://github.com/596111492@qq.com/ZHCommonLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZHCommonLib/Classes/**/*"
+}

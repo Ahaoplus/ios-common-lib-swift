@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ZHCommonLib_Example' do
+  pod 'ZHCommonLib', :path => '../'
+
+  target 'ZHCommonLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

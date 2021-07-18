@@ -1,0 +1,6 @@
+framework module ZHCommonLib {
+  umbrella header "ZHCommonLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

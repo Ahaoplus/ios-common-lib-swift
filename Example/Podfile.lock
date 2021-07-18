@@ -1,0 +1,16 @@
+PODS:
+  - ZHCommonLib (0.1.0)
+
+DEPENDENCIES:
+  - ZHCommonLib (from `../`)
+
+EXTERNAL SOURCES:
+  ZHCommonLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHCommonLib: 8a1549904c81c4af5eef26ed31f51fd18c5f6574
+
+PODFILE CHECKSUM: f445a3e21c79855317d9e0cfe1e12bd0a86939d8
+
+COCOAPODS: 1.10.1
